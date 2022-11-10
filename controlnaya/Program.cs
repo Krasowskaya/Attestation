@@ -6,7 +6,7 @@ void SortMassive(string[] FirstMassive)
         {
             if(FirstMassive[i].Length < 4)
             Console.WriteLine(FirstMassive[i]);
-        };
+        }
     }
 
 
