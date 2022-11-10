@@ -1,5 +1,4 @@
 ﻿
-
 void SortMassive(string[] FirstMassive)
 {
     int j = 0;
@@ -12,6 +11,7 @@ void SortMassive(string[] FirstMassive)
         }
     }
 }
+
 
 Console.Clear();
 string[] FirstMassive = { "Moscow", "sun", "1703" };
