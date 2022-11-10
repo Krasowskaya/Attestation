@@ -1,0 +1,15 @@
+/Users/macbook/contr/controlnaya/bin/Debug/net6.0/controlnaya
+/Users/macbook/contr/controlnaya/bin/Debug/net6.0/controlnaya.deps.json
+/Users/macbook/contr/controlnaya/bin/Debug/net6.0/controlnaya.runtimeconfig.json
+/Users/macbook/contr/controlnaya/bin/Debug/net6.0/controlnaya.dll
+/Users/macbook/contr/controlnaya/bin/Debug/net6.0/controlnaya.pdb
+/Users/macbook/contr/controlnaya/obj/Debug/net6.0/controlnaya.csproj.AssemblyReference.cache
+/Users/macbook/contr/controlnaya/obj/Debug/net6.0/controlnaya.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/contr/controlnaya/obj/Debug/net6.0/controlnaya.AssemblyInfoInputs.cache
+/Users/macbook/contr/controlnaya/obj/Debug/net6.0/controlnaya.AssemblyInfo.cs
+/Users/macbook/contr/controlnaya/obj/Debug/net6.0/controlnaya.csproj.CoreCompileInputs.cache
+/Users/macbook/contr/controlnaya/obj/Debug/net6.0/controlnaya.dll
+/Users/macbook/contr/controlnaya/obj/Debug/net6.0/refint/controlnaya.dll
+/Users/macbook/contr/controlnaya/obj/Debug/net6.0/controlnaya.pdb
+/Users/macbook/contr/controlnaya/obj/Debug/net6.0/controlnaya.genruntimeconfig.cache
+/Users/macbook/contr/controlnaya/obj/Debug/net6.0/ref/controlnaya.dll
